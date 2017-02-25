@@ -1,0 +1,37 @@
+{
+  "name": "ngFeathers",
+  "authors": [
+    "Trinmar Boado <timi.boado@yahoo.com>"
+  ],
+  "description": "FeathersJS Client for AngularJS 1",
+  "main": "ngFeathers.js",
+  "keywords": [
+    "feathers",
+    "feathersJS",
+    "angular",
+    "angularJS"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/trinly01/ngFeathers/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "feathers-client": "^1.9.0",
+    "socket.io-client": "^1.7.2"
+  },
+  "_release": "ed2c15d64b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ed2c15d64bc702acfd7c76ca716583cb96db5d79"
+  },
+  "_source": "https://github.com/trinly01/ngFeathers.git",
+  "_target": "*",
+  "_originalSource": "ngFeathers",
+  "_direct": true
+}
